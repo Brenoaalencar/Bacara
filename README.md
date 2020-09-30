@@ -1,2 +1,2 @@
 # Bacara
-Construção colaborativa (dupla) do jogo Bacará simplificado
+Construção colaborativa (Breno Alencar e Nívea Abreu) do jogo Bacará simplificado
